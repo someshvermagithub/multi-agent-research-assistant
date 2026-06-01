@@ -252,6 +252,6 @@ Somesh Verma
 
 Passionate about AI Agents, LLM Applications, Machine Learning, and Full Stack Development.
 
-## 📈 GitHub Stats
+
 
 
