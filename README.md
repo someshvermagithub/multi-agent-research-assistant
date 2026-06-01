@@ -173,11 +173,7 @@ MISRAL_API_KEY=your_mistral_api_key
 streamlit run app.py
 ```
 
-The application will open in your browser at:
-
-```text
-https://multi-agent-full-research-assistant.streamlit.app/
-```
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://multi-agent-full-research-assistant.streamlit.app/)
 
 ---
 
@@ -225,6 +221,12 @@ Contributions are welcome.
 4. Push to your branch
 5. Open a Pull Request
 
+![AI](https://img.shields.io/badge/AI-Powered-purple)
+![Multi-Agent](https://img.shields.io/badge/Multi-Agent_System-blueviolet)
+![Research](https://img.shields.io/badge/Research-Automation-cyan)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success)
+![Made With Love](https://img.shields.io/badge/Made%20with-❤️-red)
+
 ---
 
 ## 📜 License
@@ -238,3 +240,10 @@ This project is licensed under the MIT License.
 Somesh Verma
 
 Passionate about AI Agents, LLM Applications, Machine Learning, and Full Stack Development.
+
+## 📈 GitHub Stats
+
+![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/research-mind?style=social)
+![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/research-mind?style=social)
+![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/research-mind)
+![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/research-mind)
