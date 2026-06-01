@@ -173,7 +173,9 @@ MISRAL_API_KEY=your_mistral_api_key
 streamlit run app.py
 ```
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://multi-agent-full-research-assistant.streamlit.app/)
+The application will open in your browser at:
+
+http://localhost:8501
 
 ---
 
@@ -187,7 +189,17 @@ streamlit run app.py
 * Future of Autonomous AI Agents
 
 ---
+## 🚀 Live Application
 
+Experience Research Mind directly in your browser:
+
+🔗 **Live Demo:** https://multi-agent-full-research-assistant.streamlit.app/
+
+[![Open Research Mind](https://img.shields.io/badge/Launch-Research%20Mind-ff4b4b?logo=streamlit&logoColor=white)](https://multi-agent-full-research-assistant.streamlit.app/)
+
+No installation required. Simply open the application, enter a research topic, and let the AI-powered multi-agent system search, analyze, write, and critique a comprehensive research report.
+
+---
 ## 📊 Workflow
 
 1. User enters a research topic.
@@ -224,7 +236,6 @@ Contributions are welcome.
 ![AI](https://img.shields.io/badge/AI-Powered-purple)
 ![Multi-Agent](https://img.shields.io/badge/Multi-Agent_System-blueviolet)
 ![Research](https://img.shields.io/badge/Research-Automation-cyan)
-![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success)
 ![Made With Love](https://img.shields.io/badge/Made%20with-❤️-red)
 
 ---
@@ -243,7 +254,4 @@ Passionate about AI Agents, LLM Applications, Machine Learning, and Full Stack D
 
 ## 📈 GitHub Stats
 
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/research-mind?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/research-mind?style=social)
-![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/research-mind)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/research-mind)
+
